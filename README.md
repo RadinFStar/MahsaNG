@@ -62,7 +62,7 @@ NikaNG is a fork or V2rayNG with the Mahsa Xray-Core. It is entirely FOSS and ca
 
 If you're intrested in Mahsa Core as a developer, looking for a more FOSS alternative to MahsaNG, or anything else, then NikaNG is for you.
 
->![IMPORTANT]
+>[!IMPORTANT]
 >
 >  you need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in v2rayng/apps/libs folder before compile
 
