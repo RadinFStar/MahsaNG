@@ -3,13 +3,11 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
 
 <a href="https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en-US">
     <img src="playstorebadge_en.svg" width=239px height=71px alt="Get it on the play store"> <!--https://github.com/pioug/google-play-badges-->
-</a>
+</a> <br>
 
 <a href="https://github.com/GFW-knocker/MahsaNG/releases/latest">
     <img src="https://img.shields.io/badge/Download_from-Github_releases-blue" alt="Download from github releases">
-</a> <br>
-
-<a href="t.me/mahsa_net">
+</a><a href="t.me/mahsa_net">
     <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@mahsa_net&style=social" alt="Telegram" />
 </a>
 
