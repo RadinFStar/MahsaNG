@@ -14,14 +14,20 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
 <img src="https://github.com/GFW-knocker/MahsaNG/blob/master/Mahsa_logo.jpg?raw=true" width="480" ><br>
 
 
-# What is the idea
-- MahsaNG is client-side of project [Segaro_Dream](https://github.com/GFW-knocker/Segaro_Dream)
-- MahsaNG is a decentralized non-profit vpn platform in which everyone can share their configs to help others
-- Donated configs continuously monitored and redistributed to users based on clients feedback in each subnet-ip
-- Our goal is to make a superior vpn platform which is free,stable,scalable,distributed & filter-resistant
+# What's the idea?
+
+This is a client-side of the project [Segaro Dream](https://github.com/GFW-knocker/Segaro_Dream) 
+.
+
+Basically, people who have bought or made configs donate it to MahsaNG. Then, It's available to many MahsaNG users worldwide, but to decrease load on the servers and make the app more managable, MahsaNG allows no more than 25 configs per user.
+
+Also, Donated configs are continuously monitored and redistributed to users based on client feedback.
+
+This project is decenteralized and non-profit. It is a labor of love.
+
 
 # Difference to v2rayNG
-- vpn providers can use ADS service to make income instead of direct sell
+- VPN providers can use ADS service to make income instead of direct sell
 - everyone can share their unused vps bandwidth to help others
 - prevent free configs to be stolen and reselled
 - Automatic report for refining config collection at central servers
