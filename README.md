@@ -1,8 +1,18 @@
 # MahsaNG
-- [Download Mahsa NG vpn from google playstore](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
-- [ MahsaNG VPN دانلود آخرین نسخه از گیتهاب](https://github.com/GFW-knocker/MahsaNG/releases/latest)
-- [mahsa_net telegram channel](https://t.me/mahsa_net)
-- MahsaNG is a v2rayNG client aimed to provide free vpn for everyone<br>
+MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free and uncensored internet access to the people who need it. It uses Rotating configs, integrated Psiphon and WARP, Fragmentation, MUX, FakeHost, and more to make internet censorship almost impossible.
+
+<a href="https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en-US">
+    <img src="playstorebadge_en.svg" width=239px height=71px alt="Get it on the play store"> <!--https://github.com/pioug/google-play-badges-->
+</a>
+
+<a href="https://github.com/GFW-knocker/MahsaNG/releases/latest">
+    <img src="https://img.shields.io/badge/Download_from-Github_releases-blue" alt="Download from github releases">
+</a> <br>
+
+<a href="t.me/mahsa_net">
+    <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@mahsa_net&style=social" alt="Telegram" />
+</a>
+
 <img src="https://github.com/GFW-knocker/MahsaNG/blob/master/Mahsa_logo.jpg?raw=true" width="480" ><br>
 
 
