@@ -64,7 +64,7 @@ If you're intrested in Mahsa Core as a developer, looking for a more FOSS altern
 
 >[!IMPORTANT]
 >
->  you need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in v2rayng/apps/libs folder before compile
+>  You need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in the `v2rayng/apps/libs` folder before compiling
 
 
 
