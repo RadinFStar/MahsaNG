@@ -26,23 +26,45 @@ Also, Donated configs are continuously monitored and redistributed to users base
 This project is decenteralized and non-profit. It is a labor of love.
 
 
-# Difference to v2rayNG
-- VPN providers can use ADS service to make income instead of direct sell
-- everyone can share their unused vps bandwidth to help others
-- prevent free configs to be stolen and reselled
-- Automatic report for refining config collection at central servers
-- DNS over HTTPS
-- TLS Fragmentor
+# Differences with V2rayNG
+- VPN providers can use ADS service to make income instead of directly selling them.
+- Everyone can share their unused vps bandwidth to help others connect.
+- We prevent free configs from being stolen and reselled.
+- Automatic feedback for refining config collection at central servers
+- Option for DNS over HTTPS
+- Powerful TLS Fragmentor
 - HTTP & WS fake Host
 - Rotating Configs
 - Random Subdomain
-- & much more ...
+- And much more
+# Building from source
 
-# build from source
-- the code can NOT build standalone apk directly from source
-- some parts of source used for encrypting config is closed to prevent leakage & thus reselling of donated configs
-- classes responsible for authentication with [mahsa server](https://www.mahsaserver.com/) is also closed to prevent abusing of mahsa server
-- all other technology used to bypass filtering is willingly published in [Mahsa Xray-Core](https://github.com/GFW-knocker/Xray-core) including but not limited to Wireguard Noise, Youtube Direct , TLS & HTTPS & DoH fragmentor & fake Host
+It is not possible to build a standalone APK directly from source.
+
+### Why?
+
+Some parts of the project like the part responsible for encrypting configs had to stay proprietary to prevent configs from being resold.
+
+### What parts?
+
+Only 2:
+
+- Parts responsible for encrypting/decrypting configs
+- Classes responsible for authentication with the [Mahsa Server](https://www.mahsaserver.com/) 
+All other technology used to bypass filtering is willingly published in [Mahsa Xray-Core](https://github.com/GFW-knocker/Xray-core), including but not limited to Wireguard Noise, Youtube Direct , TLS & HTTPS & DoH fragmentor and FakeHost.
+
+### NikaNG
+
+
+<a href="https://github.com/mahsanet/NikaNG"><img src="https://img.shields.io/badge/NikaNG_on-Github-blue" alt="NikaNG on Github"></a>
+
+NikaNG is a fork or V2rayNG with the Mahsa Xray-Core. It is entirely FOSS and can be built.
+
+If you're intrested in Mahsa Core as a developer, looking for a more FOSS alternative to MahsaNG, or anything else, then NikaNG is for you.
+
+>![IMPORTANT]
+>
+>  you need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in v2rayng/apps/libs folder before compile
 
 # build NikaNG from source
 - [NikaNG](https://github.com/mahsanet/NikaNG) is a fork of v2rayNG with [Mahsa Xray-core](https://github.com/GFW-knocker/Xray-core)
