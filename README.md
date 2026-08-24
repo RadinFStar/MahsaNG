@@ -66,9 +66,5 @@ If you're intrested in Mahsa Core as a developer, looking for a more FOSS altern
 >
 >  you need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in v2rayng/apps/libs folder before compile
 
-# build NikaNG from source
-- [NikaNG](https://github.com/mahsanet/NikaNG) is a fork of v2rayNG with [Mahsa Xray-core](https://github.com/GFW-knocker/Xray-core)
-- its fully open souce and it can build by github action or locally
-- if you are interested in Mahsa-core as a developer , NikaNG is for you.
-- you need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in v2rayng/apps/libs folder before compile
+
 
