@@ -2,7 +2,7 @@
 > [!WARNING]
 >
 > The website mahsang.org is NOT owned by us.
-> Do not use it! Get MahsaNG only using the three methods listed bellow.
+> Do not use it! Get MahsaNG only using the three methods listed below.
 
 MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free and uncensored internet access to the people who need it. It uses Rotating configs, integrated Psiphon and WARP, Fragmentation, MUX, FakeHost, and more to make internet censorship almost impossible.
 
@@ -31,17 +31,17 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
 This is a client-side of the project [Segaro Dream](https://github.com/GFW-knocker/Segaro_Dream) 
 .
 
-Basically, people who have bought or made configs donate it to MahsaNG. Then, It's available to many MahsaNG users worldwide, but to decrease load on the servers and make the app more managable, MahsaNG allows no more than 25 configs per user.
+Basically, people who have bought or made configs donate it to MahsaNG. Then, It's available to many MahsaNG users worldwide, but to decrease load on the servers and make the app more manageable, MahsaNG allows no more than 25 configs per user.
 
 Also, Donated configs are continuously monitored and redistributed to users based on client feedback.
 
-This project is decenteralized and non-profit. It is a labor of love.
+This project is decentralized and non-profit. It is a labor of love.
 
 
 # Differences with V2rayNG
 - VPN providers can use ADS service to make income instead of directly selling them.
 - Everyone can share their unused vps bandwidth to help others connect.
-- We prevent free configs from being stolen and reselled.
+- We prevent free configs from being stolen and resold.
 - Automatic feedback for refining config collection at central servers
 - Option for DNS over HTTPS
 - Powerful TLS Fragmentor
@@ -64,16 +64,16 @@ Only 2:
 - Parts responsible for encrypting/decrypting configs
 - Classes responsible for authentication with the [Mahsa Server](https://www.mahsaserver.com/) <br>
 
-All other technology used to bypass filtering is willingly published in [Mahsa Xray-Core](https://github.com/GFW-knocker/Xray-core), including but not limited to Wireguard Noise, Youtube Direct , TLS & HTTPS & DoH fragmentor and FakeHost.
+All other technology used to bypass filtering is willingly published in [Mahsa Xray-Core](https://github.com/GFW-knocker/Xray-core), including but not limited to Wireguard Noise, YouTube Direct , TLS & HTTPS & DoH fragmenter and FakeHost.
 
 ### NikaNG
 
 
 <a href="https://github.com/mahsanet/NikaNG"><img src="https://img.shields.io/badge/NikaNG_on-Github-blue" alt="NikaNG on Github"></a>
 
-NikaNG is a fork or V2rayNG with the Mahsa Xray-Core. It is entirely FOSS and can be built.
+NikaNG is a fork of V2rayNG with the Mahsa Xray-Core. It is entirely FOSS and can be built.
 
-If you're intrested in Mahsa Core as a developer, looking for a more FOSS alternative to MahsaNG, or anything else, then NikaNG is for you.
+If you're interested in Mahsa Core as a developer, looking for a more FOSS alternative to MahsaNG, or anything else, then NikaNG is for you.
 
 >[!IMPORTANT]
 >
@@ -81,9 +81,9 @@ If you're intrested in Mahsa Core as a developer, looking for a more FOSS altern
 
 # Story of Mahsa
 
-On 16 September 2022, 22-year-old Kurdish-Iranian woman Mahsa Amini, also known as Jina Amini, died in a hospital in Tehran, Iran, under suspicious circumstances. The Guidance Patrol, the religious morality police of Iran's government, had arrested Amini for allegedly not wearing the hijab in accordance with government standards. [Click to view page on wikipedia](https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini)
+On 16 September 2022, 22-year-old Kurdish-Iranian woman Mahsa Amini, also known as Jina Amini, died in a hospital in Tehran, Iran, under suspicious circumstances. The Guidance Patrol, the religious morality police of Iran's government, had arrested Amini for allegedly not wearing the hijab in accordance with government standards. [Click to view page on Wikipedia](https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini)
 
-After the death of Mahsa Amini, protests began, demanding an end to the laws of hijab and overally the Islamic republic, but the IRGC started using a lot of violence against protesters without even listening to them. Over 530 young people were killed, and over 22,000 were arrested.
+After the death of Mahsa Amini, protests began, demanding an end to the laws of hijab and overall the Islamic republic, but the IRGC started using a lot of violence against protesters without even listening to them. Over 530 young people were killed, and over 22,000 were arrested.
 
 As a sign of respect to all of those who lost lives in that uprising, this project was named after Mahsa Amini.
 
