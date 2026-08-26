@@ -11,7 +11,7 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
     <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@mahsa_net&style=social" alt="Telegram" />
 </a>
 
-<img src="https://github.com/GFW-knocker/MahsaNG/blob/master/Mahsa_logo.jpg?raw=true" width="480" ><br>
+<img src="https://github.com/GFW-knocker/MahsaNG/blob/master/Mahsa_logo.jpg?raw=true" width="480" style="border-radius: 5px;">
 
 # Table of contents
 
