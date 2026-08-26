@@ -19,6 +19,7 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
 - [What's the idea?](#whats-the-idea)
 - [Differences with V2rayNG](#differences-with-v2rayng)
 - [Building from source](#building-from-source)
+- [Story of Mahsa...](#story-of-mahsa)
 
 # What's the idea?
 
@@ -71,3 +72,15 @@ If you're intrested in Mahsa Core as a developer, looking for a more FOSS altern
 >[!IMPORTANT]
 >
 >  You need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in the `v2rayng/apps/libs` folder before compiling
+
+# Story of Mahsa
+
+On 16 September 2022, 22-year-old Kurdish-Iranian woman Mahsa Amini, also known as Jina Amini, died in a hospital in Tehran, Iran, under suspicious circumstances. The Guidance Patrol, the religious morality police of Iran's government, had arrested Amini for allegedly not wearing the hijab in accordance with government standards. [Click to view page on wikipedia](https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini)
+
+After the death of Mahsa Amini, protests began, demanding an end to the laws of hijab and overally the Islamic republic, but the IRGC started using a lot of violence against protesters without even listening to them. Over 530 young people were killed, and over 22,000 were arrested.
+
+As a sign of respect to all of those who lost lives in that uprising, this project was named after Mahsa Amini.
+
+>[!NOTE]
+>
+>In the January 2026 protests, over 40,000 Iranians lost their lives due to their corrupt government. Don't forget about them!
