@@ -57,7 +57,8 @@ Some parts of the project like the part responsible for encrypting configs had t
 Only 2:
 
 - Parts responsible for encrypting/decrypting configs
-- Classes responsible for authentication with the [Mahsa Server](https://www.mahsaserver.com/) <br><br>
+- Classes responsible for authentication with the [Mahsa Server](https://www.mahsaserver.com/) <br>
+
 All other technology used to bypass filtering is willingly published in [Mahsa Xray-Core](https://github.com/GFW-knocker/Xray-core), including but not limited to Wireguard Noise, Youtube Direct , TLS & HTTPS & DoH fragmentor and FakeHost.
 
 ### NikaNG
