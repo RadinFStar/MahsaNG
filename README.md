@@ -13,6 +13,12 @@ MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free a
 
 <img src="https://github.com/GFW-knocker/MahsaNG/blob/master/Mahsa_logo.jpg?raw=true" width="480" ><br>
 
+# Table of contents
+
+- [What is MahsaNG](#mahsang)
+- [What's the idea?](#whats-the-idea)
+- [Differences with V2rayNG](#differences-with-v2rayng)
+- [Building from source](#building-from-source)
 
 # What's the idea?
 
@@ -65,6 +71,3 @@ If you're intrested in Mahsa Core as a developer, looking for a more FOSS altern
 >[!IMPORTANT]
 >
 >  You need to place [libv2ray.aar](https://github.com/GFW-knocker/AndroidLibXrayLite) in the `v2rayng/apps/libs` folder before compiling
-
-
-
