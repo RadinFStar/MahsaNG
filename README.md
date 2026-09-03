@@ -1,8 +1,4 @@
 # MahsaNG
-> [!WARNING]
->
-> The website mahsang.org is NOT owned by us.
-> Do not use it! Get MahsaNG only using the three methods listed below.
 
 MahsaNG is not just a V2rayNG client, this beast of a VPN aims to provide free and uncensored internet access to the people who need it. It uses Rotating configs, integrated Psiphon and WARP, Fragmentation, MUX, FakeHost, and more to make internet censorship almost impossible.
 
